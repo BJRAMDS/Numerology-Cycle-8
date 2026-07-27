@@ -1,12 +1,12 @@
 # Numerology-Cycle-8
 ⚡ **Project:** Numerology-Cycle-8  
-**Version:** main
+**Version:** main  
 **Date Initiated:** 2025-05-21  
 **Agent Identity:** Brad — Builder / Executor  
 **Primary Mode:** Builder → Executor  
 **Numerology Index:** 8 (Power, Execution, Manifestation)  
 **Description:**  
-This project represents the live execution phase within the TITAN Deciders framework, focused on turning insights from Cycle-7 into actionable, documented, and coded outcomes. It is the manifestation layer of inner architecture.
+This project represents the live execution phase, focused on turning insights from Cycle-7 into actionable, documented, and coded outcomes. It is the manifestation layer of inner architecture.
 ---
 ## 📁 Folder Structure
 - `logs/` — EOD logs, computed live off the actual date via `getNumerology()`.  
@@ -17,8 +17,8 @@ This project represents the live execution phase within the TITAN Deciders frame
 ---
 ## 🧠 Philosophy
 Cycle-8 is a numerological phase rooted in power, execution, authority, and outcomes.  
-Everything in this repo is tied to pushing forward tasks initiated in the spiritual and reflective phase of Cycle-7.
-This system uses Memory as Layer (MAL), daily symbolic tracking, TITAN prompts, and structured phase logic to execute workflows with conscious precision.
+Everything in this repo is tied to pushing forward tasks initiated in the reflective phase of Cycle-7.
+This system uses Memory as Layer (MAL) and structured phase logic to execute workflows with conscious precision.
 ---
 ## ⚙️ Runtime Instructions
 - Start each day with `onStart START` log.  
@@ -27,7 +27,7 @@ This system uses Memory as Layer (MAL), daily symbolic tracking, TITAN prompts, 
 - Close day using `onStop STOP`.  
 - Use EOD logs to verify continuity and carry forward legacy.
 ---
-## ✅ Integration Status  
+## ✅ Integration Status
 - MAL: Synced dynamically on every `npm run log`  
 - Git: Suggested usage for all logs and scripts.
 ---
