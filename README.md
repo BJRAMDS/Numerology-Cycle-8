@@ -1,6 +1,6 @@
 # Numerology-Cycle-8
 ⚡ **Project:** Numerology-Cycle-8  
-**Version:** dev-branch  
+**Version:** main
 **Date Initiated:** 2025-05-21  
 **Agent Identity:** Brad — Builder / Executor  
 **Primary Mode:** Builder → Executor  
@@ -27,8 +27,7 @@ This system uses Memory as Layer (MAL), daily symbolic tracking, TITAN prompts, 
 - Close day using `onStop STOP`.  
 - Use EOD logs to verify continuity and carry forward legacy.
 ---
-## ✅ Integration Status
-- Grok3: Listening  
+## ✅ Integration Status  
 - MAL: Synced dynamically on every `npm run log`  
 - Git: Suggested usage for all logs and scripts.
 ---
