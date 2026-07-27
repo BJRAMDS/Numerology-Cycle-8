@@ -1,17 +1,16 @@
 {
   "name": "numerology-cycle-8",
   "version": "1.0.0",
-  "description": "TITAN Decider system for Cycle-8. Executes symbolic command sequences, logs EOD states, and syncs Builder Codex entries.",
+  "description": "Decider system for Cycle-8. Executes symbolic command sequences, logs EOD states, and syncs Builder Codex entries.",
   "main": "scripts/core-functions.js",
   "scripts": {
     "start": "node scripts/core-functions.js",
     "sync": "node sync/prompts.js",
     "log": "node logs/logger.js",
-    "codex": "echo 'Load Builder-Codex_Cycle-8 manually or use Obsidian sync.'"
+    "codex": "echo 'Load Builder-Codex_Cycle-8 manually sync.'"
   },
   "keywords": [
     "numerology",
-    "titan",
     "mal",
     "cycle-8",
     "symbolic-runtime",

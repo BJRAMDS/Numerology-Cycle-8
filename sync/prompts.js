@@ -32,10 +32,10 @@ export const promptSyncLog = (filename) => {
 };
 
 // DEMO: Simple usage
-console.log(promptStartCycle(8, "2025-05-21", "Voro8"));
+console.log(promptStartCycle(8, "2025-05-21", "8"));
 console.log(promptUpdateCycle(8, ["Submit Upwork proposal", "Email Intagio"]));
 console.log(promptEndCycle(8, "EOD logged and synced."));
 console.log(promptGrok3Meta(13, 21, "2025-05-30"));
 console.log(promptEcho(8));
 console.log(promptSyncLog("Builder-Codex_Cycle-8.md"));
-console.log(formatAsMarkdown("onUpdate Cycle-8", promptUpdateCycle(8, ["Execute Entry_13", "Sync Grok3"])));
+console.log(formatAsMarkdown("onUpdate Cycle-8", promptUpdateCycle(8, ["Execute Entry_13", "3"])));

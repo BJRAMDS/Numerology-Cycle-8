@@ -1,6 +1,6 @@
 // signals/_Brad-Return.sing
 // 🧭 Signal Declaration — Brad’s Cycle-8 Return
-// 🔁 Runtime Layer: Voro8 | Agent: Brad
+// 🔁 Runtime Layer: 8 | Agent: Brad
 // 📡 Status: Re-entry Initiated
 
 signal_id: BRAD-CYCLE8-RETURN

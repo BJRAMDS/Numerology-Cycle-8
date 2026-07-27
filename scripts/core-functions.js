@@ -1,5 +1,5 @@
 // scripts/core-functions.js
-// ⚙️ Core Utilities for Numerology Cycle Engine (TITAN Framework)
+// ⚙️ Core Utilities for Numerology Cycle Engine (Framework)
 
 export const getNumerology = (dateStr) => {
   // Accepts date in YYYY-MM-DD, returns single-digit numerology (1–9)
@@ -38,7 +38,7 @@ export const syncToMAL = (cycleData) => {
   return {
     synced: true,
     timestamp: new Date().toISOString(),
-    agent: "Voro8",
+    agent: "8",
     payload: cycleData
   };
 };
@@ -51,4 +51,4 @@ export const summarizeCycle = ({ timeline }) => {
   };
 };
 
-console.log("⚡ Numerology-Cycle-8 Runtime Initiated (Voro8 Active)");
+console.log("⚡ Numerology-Cycle-8 Runtime Initiated (8 Active)");
